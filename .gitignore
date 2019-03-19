@@ -112,3 +112,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Data/impala_train_prod_data.csv
+Data/impala_train_prod_data.xlsx
+Data/impala_well_list.txt
+Data/yearly_prod.csv
