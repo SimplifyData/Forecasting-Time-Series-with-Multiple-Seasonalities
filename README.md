@@ -6,5 +6,5 @@ This project is created to forecast oil well production for future years using t
 
 
 ### *** Citations ***:
-Skorupa, G., & Skorupa, G. (2019, January 14). Forecasting Time Series with Multiple Seasonalities using TBATS in Python. 
+1) Skorupa, G., & Skorupa, G. (2019, January 14). Forecasting Time Series with Multiple Seasonalities using TBATS in Python. 
 Retrieved from https://medium.com/intive-developers/forecasting-time-series-with-multiple-seasonalities-using-tbats-in-python-398a00ac0e8a
